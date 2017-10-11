@@ -4,9 +4,9 @@ This project contains a lot of problems because we would like you to push yourse
 
 - nesting.js
 - destructuring.js
-- higher-order.js
-- forInLoops_Delete.js
-- classes.js
+- higher-order.js ***
+- forInLoops_Delete.js ***
+- classes.js ****
 
 If you complete these ahead of time, please work on the additional problems. Otherwise, feel free to move on to other content.
 
